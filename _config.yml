@@ -1,0 +1,8 @@
+title: ZHANGLINTC
+description: Website of ZHANGLINTC
+google_analytics: UA-62825791-1
+show_downloads: true
+theme: jekyll-theme-architect
+
+gems:
+  - jekyll-mentions
