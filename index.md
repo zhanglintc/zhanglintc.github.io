@@ -9,7 +9,7 @@
 -----
 
 ### [MySpring](https://github.com/zhanglintc/MySpring)
-简单实现一下 Spring 中的一些基本功能. 导入 `co.zhanglintc.MySpring`, 即可实现使用 Spring 一样的"依赖注入". 主要是为了加深对 Java 反射机制的理解.
+简单实现了一下 Spring 中的一些基本功能. 主要是为了加深对 Java 反射机制的理解.
 
 -----
 
