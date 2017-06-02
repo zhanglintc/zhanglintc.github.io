@@ -1,7 +1,3 @@
-<div style="display: none;">
-    <script src="http://zhanglintc.work:8000/send?text=zhanglintc.co has been viewed" language="JavaScript">
-</div>
-
 ## 项目介绍:
 
 -----
@@ -63,3 +59,7 @@ C++ 实现的一个贪吃蛇. 主要是刚入职新公司时需要学习 C++, �
 -----
 
 [渝ICP备17002936号](http://www.miitbeian.gov.cn/)
+
+<div style="display: none;">
+    <script src="http://zhanglintc.work:8000/send?text=zhanglintc.co has been viewed" language="JavaScript">
+</div>
