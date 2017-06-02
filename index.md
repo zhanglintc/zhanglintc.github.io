@@ -1,3 +1,6 @@
+<div style="display: none;">
+    <script src="http://zhanglintc.work:8000/send?text=zhanglintc.co has been viewed" language="JavaScript">
+</div>
 
 ## 项目介绍:
 
