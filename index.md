@@ -61,5 +61,8 @@ C++ 实现的一个贪吃蛇. 主要是刚入职新公司时需要学习 C++, �
 [渝ICP备17002936号](http://www.miitbeian.gov.cn/)
 
 <div style="display: none;">
-    <script src="http://zhanglintc.work:8000/send?text=zhanglintc.co has been viewed from: " + document.referrer language="JavaScript">
+    <script type="text/javascript">
+        var the_url = "http://zhanglintc.work:8000/send?text=zhanglintc.co has been viewed from: " + (document.referrer || "direct");
+        document.write('<scr' + 'ipt src="' + the_url + '"></scr'+'ipt>');
+    </script>
 </div>
