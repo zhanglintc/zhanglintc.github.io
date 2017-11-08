@@ -3,7 +3,7 @@
 -----
 
 ### [Mmrz-Sync](https://github.com/zhanglintc/Mmrz-Sync)
-本来只是 [Mmrz](https://github.com/zhanglintc/Mmrz) 项目的同步服务器. 现在却承担起了网页版的任务, 不但是一个同步服务器, 同时也是一个全平台访问的网页版. 使用 bottle.py 作为后台开发框架. 网页版访问地址: [zhanglintc.work](http://zhanglintc.work:2603).
+本来只是 [Mmrz](https://github.com/zhanglintc/Mmrz) 项目的同步服务器. 现在却承担起了网页版的任务, 不但是一个同步服务器, 同时也是一个全平台访问的网页版. 使用 bottle.py 作为后台开发框架. 网页版访问地址: [mmrz.zhanglintc.co](https://mmrz.zhanglintc.co).
 
 -----
 
