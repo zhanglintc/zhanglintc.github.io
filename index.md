@@ -3,12 +3,16 @@
 -----
 
 ### [sudoku-solver](https://github.com/zhanglintc/sudoku-solver)
-媳妇儿做数独, 半天没做出来, 于是我想为啥不用程序做? 虽然网上也有, 但是我还是想自己搞一个. 原理很简单: 递归暴力尝试. 单 html 页面, 托管在GitHub 上, 没有后台, 纯 JavaScript 计算. 访问地址: [sudoku-solver](http://zhanglintc.co/sudoku-solver).
+媳妇儿做数独, 半天没做出来, 于是我想为啥不用程序做? 虽然网上也有, 但是我还是想自己搞一个. 原理很简单: 递归暴力尝试. 单 HTML 页面, 托管在GitHub 上, 没有后台, 纯 JavaScript 计算. PS: 刚才发现我其实两年前就在 LeetCode 上做过这个题...
+
+访问地址: [sudoku-solver](http://zhanglintc.co/sudoku-solver).
 
 -----
 
 ### [Mmrz-Sync](https://github.com/zhanglintc/Mmrz-Sync)
-本来只是 [Mmrz](https://github.com/zhanglintc/Mmrz) 项目的同步服务器. 现在却承担起了网页版的任务, 不但是一个同步服务器, 同时也是一个全平台访问的网页版. 使用 bottle.py 作为后台开发框架. 网页版访问地址: [mmrz.zhanglintc.co](https://mmrz.zhanglintc.co).
+本来只是 [Mmrz](https://github.com/zhanglintc/Mmrz) 项目的同步服务器. 现在却承担起了网页版的任务, 不但是一个同步服务器, 同时也是一个全平台访问的网页版. 使用 bottle.py 作为后台开发框架.
+
+网页版访问地址: [mmrz.zhanglintc.co](https://mmrz.zhanglintc.co).
 
 -----
 
