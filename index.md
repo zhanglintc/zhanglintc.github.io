@@ -59,7 +59,7 @@ Android 平台下的天气 App. 使用 World Weather Online 提供的 API( [Addr
 -----
 
 ### [tetris](https://github.com/zhanglintc/tetris)
-在用C++实现了贪吃蛇以后, 又想尝试着做一个俄罗斯方块, 于是有了这个项目. 很多函数都是直接拷贝 [snake](https://github.com/zhanglintc/snake) 中的, 只是逻辑和显示变成了俄罗斯方块. 同样支持 中文/日文 的电脑系统.
+在用 C++ 实现了贪吃蛇以后, 又想尝试着做一个俄罗斯方块, 于是有了这个项目. 很多函数都是直接拷贝 [snake](https://github.com/zhanglintc/snake) 中的, 只是逻辑和显示变成了俄罗斯方块. 同样支持 中文/日文 的电脑系统.
 
 -----
 
