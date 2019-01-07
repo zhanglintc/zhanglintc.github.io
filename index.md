@@ -2,6 +2,11 @@
 
 -----
 
+### [Bassoon](https://github.com/zhanglintc/Bassoon)
+尝试着实现了一下 WSGI 服务器和一个简单的 Framework. 不要问我为什么叫 **Bassoon**(巴松管), 这就是随机出来的一个单词. Bassoon.py 里主要有两个大类, `BassoonServer` 是一个 WSGI 服务器, 比 **wsgiref** 还简单. `BassoonApp` 就是框架, 使用其中的 get 和 post 就可以完成路由功能了. 具体可以参考 example.py 的用法. 实现的时候参考了 `bottle.py`. 还需要继续完善模版等功能.
+
+-----
+
 ### [Mmrz-Extension](https://github.com/zhanglintc/Mmrz-Extension)
 Chrome 浏览器插件, 特意为 [Mmrz-Sync](https://github.com/zhanglintc/Mmrz-Sync) 开发, 功能非常简单, 仅仅是为浏览器添加一个右键快捷方式, 能够直接打开新标签页使用 Mmrz-Sync 查询当前选中的日语单词.
 
