@@ -1,7 +1,3 @@
-## 项目介绍:
-
------
-
 ### [Bassoon](https://github.com/zhanglintc/Bassoon)
 尝试着实现了一个 WSGI 服务器和一个简单的 Framework. 不要问我为什么叫 Bassoon(巴松管), 这就是随机出来的一个单词. Bassoon.py 里主要有两个大类: **BassoonServer** 是一个 WSGI 服务器, 比 wsgiref 还简单. **BassoonApp** 可以说就是框架, 使用其中的 get 和 post 就可以完成路由功能了. 可以查看 example.py 中的用法. 实现的时候参考了 [Bottle](https://bottlepy.org/) 框架. 还需要继续完善模版等功能.
 
