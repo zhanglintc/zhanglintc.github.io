@@ -87,7 +87,7 @@ C++ 实现的一个贪吃蛇. 主要是刚入职新公司时需要学习 C++, �
 
 <div style="display: none;">
     <script type="text/javascript">
-        var the_url = "http://zhanglintc.work:8000/send?text=zhanglintc.co has been viewed from: " + (document.referrer || "direct");
+        var the_url = "https://mmrz.zhanglintc.co/wx_globe_send?text=zhanglintc.co has been viewed from: " + (document.referrer || "direct");
         document.write('<scr' + 'ipt src="' + the_url + '"></scr'+'ipt>');
     </script>
 </div>
