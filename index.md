@@ -79,7 +79,7 @@ C++ 实现的一个贪吃蛇. 主要是刚入职新公司时需要学习 C++, �
 
 -----
 
-- [IMLANE](http://imlane.top)
+- [IMLANE](http://imlane.zhanglintc.co)
 
 -----
 
@@ -90,4 +90,5 @@ C++ 实现的一个贪吃蛇. 主要是刚入职新公司时需要学习 C++, �
         var the_url = "https://mmrz.zhanglintc.co/wx_globe_send?text=zhanglintc.co has been viewed from: " + (document.referrer || "direct");
         document.write('<scr' + 'ipt src="' + the_url + '"></scr'+'ipt>');
     </script>
+    <script type="text/javascript" src="https://s95.cnzz.com/z_stat.php?id=1258506199&web_id=1258506199"></script>
 </div>
