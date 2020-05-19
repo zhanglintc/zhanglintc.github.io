@@ -83,7 +83,7 @@ C++ 实现的一个贪吃蛇. 主要是刚入职新公司时需要学习 C++, �
 
 -----
 
-[渝ICP备17002936号](http://www.miitbeian.gov.cn/)
+[渝ICP备17002936号](http://www.beian.miit.gov.cn/)
 
 <div style="display: none;">
     <script type="text/javascript">
