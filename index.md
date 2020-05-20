@@ -2,7 +2,6 @@
 之前忘了写了, 也可能是之前觉得太没意思了, 所以当时没往这里写.
 
 这是一个用来从 [https://cn.bing.com/](https://cn.bing.com/) 下载当日图片并设置为壁纸的一个项目. 我试了至少 **WindowsXP**, **Windows7**, **Windows10** 都是可以使用的. 不需要下载安装任何其他的依赖, 即插即用.
-服务器端使用的是这个文件: [bingAPI.rb](https://github.com/zhanglintc/tools-lite/blob/master/ruby/bingAPI.rb) 稳定的重定向到当日图片地址.
 
 -----
 
